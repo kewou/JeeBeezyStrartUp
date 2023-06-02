@@ -1,0 +1,6 @@
+com\example\entities\User.class
+com\example\services\UserService.class
+com\example\dao\UserDAO.class
+com\example\Main.class
+com\example\configuration\AppConfig.class
+com\example\controleurs\UserControleur.class
